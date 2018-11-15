@@ -11,9 +11,9 @@ client.on("guildMemberAdd", member => {
       حياك الله ي بعد راسي
        خش بتنورنا فعاليات وكل شيء حلو موجود !
         ي بعد عيني الرابط تحت
-         Spring SERVER
+        
 
-                                 [ رابط سيرفرك ] **`)
+                                 [ https://discord.gg/PcCD5Uk] **`)
 }).catch(console.error)
 })
 
@@ -23,9 +23,9 @@ client.on("guildMemberRemove", member => {
       حياك الله ي بعد راسي
        خش بتنورنا فعاليات وكل شيء حلو موجود !
         ي بعد عيني الرابط تحت
-         Spring SERVER
+         
 
-                                 [ رابط سيرفرك ] **`)
+                                 [ https://discord.gg/PcCD5Uk ] **`)
 }).catch(console.error)
 })
 client.login('توكن البوت');
